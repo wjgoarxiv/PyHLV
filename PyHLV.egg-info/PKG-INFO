@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: PyHLV
+Version: 1.2.4
+Summary: ::A simple phase EQ extractor for gas hydrate researchers::
+Home-page: https://pypi.org/project/PyHLV/
+Author: wjgo-unist
+Author-email: woo_go@yahoo.com
+License: MIT
+Requires-Python: >=3.8
+
+Revised some minor errors...

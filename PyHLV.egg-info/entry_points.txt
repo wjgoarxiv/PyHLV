@@ -1,0 +1,2 @@
+[console_scripts]
+pyhlv = PyHLV.__main__:main
