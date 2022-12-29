@@ -1,5 +1,5 @@
 # **PyHLV**
-## <mark> **Py**thon-based **H**ydrate-**L**iquid-**V**apor phase equilibrium extractor </mark>
+::**Py**thon-based **H**ydrate-**L**iquid-**V**apor phase equilibrium extractor::
 ![PyHLV LOGO](./LOGO.png)
 
 ## **1. Backgrounds**
