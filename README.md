@@ -1,5 +1,6 @@
 # **PyHLV**
-::**Py**thon-based **H**ydrate-**L**iquid-**V**apor phase equilibrium extractor:: 
+## <mark> **Py**thon-based **H**ydrate-**L**iquid-**V**apor phase equilibrium extractor </mark>
+![PyHLV LOGO](./LOGO.png)
 
 ## **1. Backgrounds**
 Gas hydrate is a valuable resource due to its numerous advantages, and it is being used in various industries and applications. For example, its stability under pressure makes it an important component in natural gas processing and transportation systems, such as pipelines and subsea production. Moreover, it is being studied for other uses such as energy storage, carbon capture, and sequestration, and as a replacement for conventional fuels in combustion engines. In order to fully exploit and manage gas hydrate resources, it is necessary to understand the phase equilibrium, or Hydrate (H) - Liquid (L) - Vapor (V) equilibrium (EQ). After forming a gas hydrate inside the pressure cell (decreased pressure), the researcher must slowly dissociate the hydrate by increasing the temperature and pressure. By observing the hysteresis loop in the pressure-temperature (P-T) diagram, the desired equilibrium point can be achieved. Once the equilibrium point is achieved, the hydrate properties can be studied further.
