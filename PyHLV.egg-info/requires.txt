@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+ruptures
+tabulate
+pyfiglet
+argparse
