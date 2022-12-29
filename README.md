@@ -91,3 +91,9 @@ In the future, PyHLV will be improved to include additional features such as:
 - Ability to <u>process multiple files at once. </u>
 - Support for <u>complex P-T</u> data.
 - Ability to detect <u>multi-phase regions</u> in the P-T data.
+
+## **12. Google Colab compatible!**
+Of course, you can run PyHLV in the following Google Colab notebooks. 
+There are two different versions; one is a segmented version, which allows users to run each step individually, and the other is compiled version, which allows users to simply run the code.
+- [Segmented Colab Notebook](https://tinyurl.com/2nq3kksu)
+- [Compiled Colab Notebook](https://tinyurl.com/2fuzjxw4)
