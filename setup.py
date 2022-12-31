@@ -4,7 +4,7 @@ setup(
 	  version='1.2.4',  
 	  description='::A simple phase EQ extractor for gas hydrate researchers::',
 	  long_description= 'Revised some minor errors...', 
-	  author='wjgo-unist',
+	  author='wjgoarxiv',
 	  author_email='woo_go@yahoo.com',
 	  url='https://pypi.org/project/PyHLV/',
 	  license='MIT',
