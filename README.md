@@ -30,7 +30,7 @@ PyHLV works in the following steps:
 
 ## **5. Limitations**
 PyHLV is designed to be simple and user-friendly. However, it has the following limitations:
-- Only works for extracting phase equilibrium points from P-T data of the DWStemp program (Dongwon logging software). If the data is from another software, the user needs to manually convert the data into a compatible format. The software will then be able to produce the equilibrium points and display them graphically.
+- Only works for extracting phase equilibrium points from P-T data of the DWStemp program (Dongwon logging software; refer to the raw data stored in the `examples/` folder). If the data is from another software, the user needs to manually convert the data into a compatible format. The software will then be able to produce the equilibrium points and display them graphically.
 - User must adjust option values (ninput, stepreg, pen, etc.), if P-T data is too complicated.
 - Can only process one file at a time. 
 
