@@ -84,19 +84,38 @@ PyHLV requires the following packages to be installed:
 - `pyfiglet`
 - `argparse`
 
-## **9. License**
+## **9. Gallery**
+### (1) PLOT 1: Finding ruptures
+<img src="./Examples/results_1/1_finding+ruptures.png" width="50%" height="50%"/>
+
+### (2) PLOT 2: P-T & rupture point
+<img src="./Examples/results_1/2_P-T_and_rupturepoint.png" width="50%" height="50%"/>
+
+### (3) PLOT 3: Estimated EQ point (scaled)
+<img src="./Examples/results_1/3_Estimated_EQ_point(scaled).png" width="50%" height="50%"/>
+
+### (4) PLOT 4: Phase EQ diagram
+<img src="./Examples/results_1/4_Phase_EQ_Diagram.png" width="70%" height="70%"/> 
+
+### (5) DATA 1: Phase EQ data
+* [Phase EQ data](https://github.com/wjgoarxiv/PyHLV/blob/1e3fbed7cee205f65988b7825d9f72f02a1b19db/Examples/results_1/Phase%20EQ%20Data.csv)
+
+### (6) DATA 2: Tipping points
+* [Tipping points](https://github.com/wjgoarxiv/PyHLV/blob/1e3fbed7cee205f65988b7825d9f72f02a1b19db/Examples/results_1/Tipping%20points.csv)
+
+## **10. License**
 This program is licensed under the MIT License. For more information, please refer to the LICENSE file.
 
-## **10. Author**
+## **11. Author**
 This program was developed by [wjgoarxiv](https://github.com/wjgoarxiv)
 
-## **11. Future work planned**
+## **12. Future work planned**
 In the future, PyHLV will be improved to include additional features such as:
 - Ability to <u>process multiple files at once. </u>
 - Support for <u>complex P-T</u> data.
 - Ability to detect <u>multi-phase regions</u> in the P-T data.
 
-## **12. Google Colab compatible!**
+## **13. Google Colab compatible!**
 Of course, you can run PyHLV in the following Google Colab notebooks. 
 There are two different versions; one is a segmented version, which allows users to run each step individually, and the other is compiled version, which allows users to simply run the code.
 - [Segmented Colab Notebook](https://tinyurl.com/2nq3kksu)
